@@ -1,0 +1,92 @@
+
+[
+    {  "SerialNo":"1",
+        "Name" : "Rice",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Grocery",
+        "Notes":"Basumati"
+    },
+
+    {
+        "SerialNo":"2",
+        "Name": "Oil",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Grocery",
+        "Notes":"vargin-Coconut-Oil"
+    },
+
+    {
+        "SerialNo":"3",
+        "Name": "Tea Leaves",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Grocery",
+        "Notes":"Rose-Gold"
+    },
+
+    {
+        "SerialNo":"4",
+        "Name": "Salt",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Grocery",
+        "Notes":"Iodised-Salt"
+    },
+
+    {
+        "SerialNo":"5",
+        "Name": "Apple",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Fruits",
+        "Notes":"Green-Apple"
+    },
+
+    {
+        "SerialNo":"6",
+        "Name": "Milk",
+        "Quantity" : "1",
+        "Unit":"Li",
+        "Department": "Grocery",
+        "Notes":"Milma blue packet"
+    },
+
+    {
+        "SerialNo":"7",
+        "Name": "Fish",
+        "Quantity" : "1",
+        "Unit":"kg",
+        "Department": "Food",
+        "Notes":"Catla/Crab"
+    },
+
+    {
+        "SerialNo":"8",
+        "Name": "Eggs",
+        "Quantity" : "10",
+        "Unit":"Numbers",
+        "Department": "Eggs",
+        "Notes":"Chicken Eggs"
+    },
+
+    {
+        "SerialNo":"9",
+        "Name": "Veggies",
+        "Quantity" : "0.5",
+        "Unit":"kg",
+        "Department": "Vegetables",
+        "Notes":"Fresh, select any"
+    },
+
+    {
+        "SerialNo":"10",
+        "Name": "Tissue",
+        "Quantity" : "5",
+        "Unit":"Packets",
+        "Department": "House-Hold",
+        "Notes":"Oil Absorbent"
+    }
+
+]
